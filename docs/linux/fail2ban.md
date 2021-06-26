@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fail2ban
+title: Linux
 nav_order: 11
 has_children: true
 permalink: /docs/linux
